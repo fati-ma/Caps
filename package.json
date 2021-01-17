@@ -1,0 +1,25 @@
+{
+  "name": "Caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fati-ma/Caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fati-ma/Caps/issues"
+  },
+  "homepage": "https://github.com/fati-ma/Caps#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faker": "^5.1.0",
+    "jest": "^26.6.3"
+  }
+}
