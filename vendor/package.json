@@ -1,0 +1,12 @@
+{
+  "name": "vendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vendor.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
