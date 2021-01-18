@@ -1,0 +1,12 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "driver.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
