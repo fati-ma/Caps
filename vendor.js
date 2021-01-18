@@ -4,8 +4,8 @@ require('dotenv').config();
 
 const storeName = process.env.STORE_NAME;
 
-//setInterval
-setTimeout(function () {
+
+setInterval(function () {
   let obj = {
     storeName,
     orderId: faker.random.uuid(),
