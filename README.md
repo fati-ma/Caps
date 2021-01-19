@@ -8,6 +8,7 @@
 Make directories for `caps` `vendor` `driver` and do `npm init -y` for each by itself so you will have `package.json` file for each directory
 
 `npm i dotenv faker jest`
+`npm i socket.io socket.io-client`
 
 Add `STORE_NAME` `PORT` `HOST` in `.env` file
 
@@ -18,7 +19,7 @@ Start the server using `node cpas/caps.js` , `node vendor/vendor.js` , `node dri
 
 You will get a result similar to the following:
 
-![caps-17](assets/class-17.JPG)
+![caps-18](assets/class-18.JPG)
 
 
 
